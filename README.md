@@ -1,11 +1,3 @@
-# A02 Git, Webstorm, and Github: step-by-step tutorial
-The goal is to create a GitHub repistory named A02 to learn how to use Git, Webstorm, and Github.
-
-# Git, WebStorm, and GitHub Tutorial
-
-This guide explains how to set up WebStorm with Git and GitHub, and walks you through the basic workflow of creating, committing, and pushing projects. It is designed for beginners and students who are learning professional software practices.
-
----
 
 # Git, WebStorm, and GitHub — Step-by-Step Tutorial
 
