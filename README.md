@@ -77,10 +77,10 @@ This guide walks a new developer through installing the tools, connecting **WebS
 - **Repository** — A project tracked by Git, containing files, commits, branches, and history.
 
 ### Works Cited
-Chacon, Scott, and Ben Straub. Pro Git (2nd Edition). Apress, 2014. Available online: https://git-scm.com/book/en/v2
-GitHub Docs — About repositories. https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
-GitHub Docs — About branches. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
-GitHub Docs — About commits. https://docs.github.com/en/get-started/using-git/about-commits
-GitHub Docs — About merge conflicts. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts
-GitHub Docs — Managing remote repositories. https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories
+- Chacon, Scott, and Ben Straub. Pro Git (2nd Edition). Apress, 2014. Available online: https://git-scm.com/book/en/v2
+- GitHub Docs — About repositories. https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories
+- GitHub Docs — About branches. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches
+- GitHub Docs — About commits. https://docs.github.com/en/get-started/using-git/about-commits
+- GitHub Docs — About merge conflicts. https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts
+- GitHub Docs — Managing remote repositories. https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories
 
