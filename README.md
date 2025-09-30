@@ -67,7 +67,7 @@ This guide walks a new developer through installing the tools, connecting **WebS
 **Clone** — A copy of a remote repository downloaded to your local computer using git clone.
 **Commit** — A snapshot of changes saved in the repository with a message describing the update.
 **Fetch** — A command that downloads the latest changes from a remote repository but does not merge them into your local branch.
-**GIT** — A distributed version control system that tracks changes in source code over time.
+**Git** — A distributed version control system that tracks changes in source code over time.
 **GitHub** — A cloud-based hosting service for Git repositories that adds collaboration tools like issues, pull requests, and Actions.
 **Merge** — The process of combining changes from one branch into another.
 **Merge Conflict** — A situation that occurs when Git cannot automatically merge changes, requiring the developer to manually resolve differences.
