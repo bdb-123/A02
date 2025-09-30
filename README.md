@@ -62,19 +62,19 @@ This guide walks a new developer through installing the tools, connecting **WebS
 - A short explanation of what this repo is for (example: *“This repo is for learning how to use GitHub and submit assignments.”*).  
 - (Optional) Any screenshots or notes about the process.
 
-# Part 2 — Glossary of Terms
-**Branch** — A separate line of development in a repository that allows you to work on changes without affecting the main code until merged.
-**Clone** — A copy of a remote repository downloaded to your local computer using git clone.
-**Commit** — A snapshot of changes saved in the repository with a message describing the update.
-**Fetch** — A command that downloads the latest changes from a remote repository but does not merge them into your local branch.
-**Git** — A distributed version control system that tracks changes in source code over time.
-**GitHub** — A cloud-based hosting service for Git repositories that adds collaboration tools like issues, pull requests, and Actions.
-**Merge** — The process of combining changes from one branch into another.
-**Merge Conflict** — A situation that occurs when Git cannot automatically merge changes, requiring the developer to manually resolve differences.
-**Push** — Sending your local commits to a remote repository like GitHub.
-**Pull** — Fetching and merging changes from a remote repository into your local branch.
-**Remote** — A reference to a version of the repository stored online (such as GitHub). The default remote is usually named origin.
-**Repository** — A project tracked by Git, containing files, commits, branches, and history.
+## Part 2 — Glossary of Terms
+- **Branch** — A separate line of development in a repository that allows you to work on changes without affecting the main code until merged.
+- **Clone** — A copy of a remote repository downloaded to your local computer using git clone.
+- **Commit** — A snapshot of changes saved in the repository with a message describing the update.
+- **Fetch** — A command that downloads the latest changes from a remote repository but does not merge them into your local branch.
+- **Git** — A distributed version control system that tracks changes in source code over time.
+- **GitHub** — A cloud-based hosting service for Git repositories that adds collaboration tools like issues, pull requests, and Actions.
+- **Merge** — The process of combining changes from one branch into another.
+- **Merge Conflict** — A situation that occurs when Git cannot automatically merge changes, requiring the developer to manually resolve differences.
+- **Push** — Sending your local commits to a remote repository like GitHub.
+- **Pull** — Fetching and merging changes from a remote repository into your local branch.
+- **Remote** — A reference to a version of the repository stored online (such as GitHub). The default remote is usually named origin.
+- **Repository** — A project tracked by Git, containing files, commits, branches, and history.
 
 ### Works Cited
 Chacon, Scott, and Ben Straub. Pro Git (2nd Edition). Apress, 2014. Available online: https://git-scm.com/book/en/v2
