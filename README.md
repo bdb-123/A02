@@ -3,9 +3,9 @@ The goal is to create a GitHub repistory named A02 to learn how to use Git, Webs
 
 **Prerequisites** (You need to have installed)
 
-1. Webstorm (IDE) download from JetBrains, page: https://www.jetbrains.com/webstorm/download/download-thanks.html
+   1. Webstorm (IDE) download from JetBrains, page: https://www.jetbrains.com/webstorm/download/download-thanks.html
    
-﻿2. Git (Command line) page: https://git-scm.com/downloads 
+   ﻿2. Git (Command line) page: https://git-scm.com/downloads 
 
-﻿﻿3. Github account: Sign up for one and create an account page: https://github.com
+   ﻿﻿3. Github account: Sign up for one and create an account page: https://github.com
 
